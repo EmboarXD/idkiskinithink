@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom {
-    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/base.svg);
+    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/base.svg?sanitize=true);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,11 +8,11 @@
 }
 
 .custom.white {
-    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/base-white.svg);
+    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/base-white.svg?sanitize=true);
 }
 
 .custom.disconnected {
-    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/disconnected.svg);
+    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/disconnected.svg?sanitize=true);
 }
 
 .custom.disconnected div {
@@ -29,7 +29,7 @@
 .custom .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/trigger.svg);
+    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/trigger.svg?sanitize=true);
     opacity: 0;
 }
 
@@ -46,7 +46,7 @@
 .custom .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/bumper.svg);
+    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/bumper.svg?sanitize=true);
     opacity: 0;
 }
 
@@ -74,7 +74,7 @@
 
 .custom .quadrant {
     position: absolute;
-    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/quadrant.svg);
+    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/quadrant.svg?sanitize=true);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -111,7 +111,7 @@
 }
 
 .custom .back, .custom .start {
-    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/start-select.svg);
+    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/start-select.svg?sanitize=true);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -140,7 +140,7 @@
 
 .custom .button {
     position: absolute;
-    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/abxy.svg);
+    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/abxy.svg?sanitize=true);
     width: 48px;
     height: 48px;
 }
@@ -185,7 +185,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/stick.svg);
+    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/stick.svg?sanitize=true);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -214,7 +214,7 @@
 }
 
 .custom .face {
-    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/dpad.svg);
+    background: url(https://raw.githubusercontent.com/EmboarXD/idkiskinithink/main/dpad.svg?sanitize=true);
     position: absolute;
     opacity: 0;
 }
